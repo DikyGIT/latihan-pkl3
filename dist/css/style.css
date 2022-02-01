@@ -765,11 +765,10 @@ footer p {
 
   .contact .contact-box .box2 form table tr th label {
     font-size: 8px;
-    margin-right: 10px;
   }
 
   .contact .contact-box .box2 form table tr td input {
-    padding: 0 0 0 0;
+    padding: 5px 0 5px 0;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
